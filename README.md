@@ -15,7 +15,7 @@ public class TreeNode {
 }
 ```
 
-## Result of running in this sample code
+## Result of running this sample code
 ```
 After inserting val 10..
 10

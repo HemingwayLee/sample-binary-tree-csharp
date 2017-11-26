@@ -1,4 +1,4 @@
-# sample-binary-tree-cpp
+# sample-binary-tree-csharp
 
 This project is modified from https://github.com/HemingwayLee/sample-binary-tree-cpp and is rewrited in C#.
 
